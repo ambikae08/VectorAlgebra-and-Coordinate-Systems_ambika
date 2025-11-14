@@ -1,11 +1,11 @@
-# VectorAlgebra-and-Coordinate-Systems_ambika
+# VectorAlgebra-and-Coordinate-Systems
 
 Vector Algebra in Autonomous Navigation: Mapping the World in 3D 
 
 An engineering-focused exploration of how vector algebra and coordinate systems enable real-time navigation in drones, robots, and autonomous vehicles.
 
 
-<img width="936" height="1024" alt="image" src="https://github.com/user-attachments/assets/63f7f289-6288-491a-bec7-017fbbc62324" />
+<img width="536" height="924" alt="image" src="https://github.com/user-attachments/assets/63f7f289-6288-491a-bec7-017fbbc62324" />
 
 
 ## 1. Introduction
